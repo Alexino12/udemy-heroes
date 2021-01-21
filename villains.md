@@ -7,3 +7,4 @@
 5. Deadshot
 6. Bane
 7. Darkseid
+8. Bane
