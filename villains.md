@@ -8,3 +8,4 @@
 6. Bane
 7. Darkseid
 8. Bane
+9. Deathstroke
