@@ -10,3 +10,4 @@
 - Atom
 - Cyborg
 - Starfire
+- Shazam
